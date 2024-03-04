@@ -1,1 +1,1 @@
-<svg onload=alert(document.origin)>
+<svg onload=alert(origin)>
